@@ -91,8 +91,11 @@ Model Evaluation
 Feature Importance Analysis
      ↓
 Power BI Dashboard
+```
 
-## Data Preparation
+---
+
+## 🧹 Data Preparation
 
 The Python analysis includes:
 
@@ -259,3 +262,67 @@ Student-Performance-Analysis/
 ├── LICENSE
 ├── README.md
 └── requirements.txt
+```
+
+---
+
+## ▶️ How to Run the Python Analysis
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/naisha-nitin-uchil/Student-Performance-Analysis.git
+```
+
+### 2. Navigate to the Project
+
+```bash
+cd Student-Performance-Analysis
+```
+
+### 3. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Open the Notebook
+
+Open:
+
+```text
+Python/student_analysis.ipynb
+```
+
+Run the notebook cells from top to bottom.
+
+> **Note:** The notebook uses relative dataset paths so that the analysis can be reproduced on another computer.
+
+---
+
+## 💡 Future Improvements
+
+- Use a reproducible preprocessing pipeline for machine learning
+- Replace label encoding with more appropriate categorical preprocessing where applicable
+- Compare additional regression models
+- Perform hyperparameter tuning
+- Add cross-validation for more robust model evaluation
+- Add model prediction visualizations
+- Integrate machine learning insights into the Power BI dashboard
+- Improve dashboard accessibility and visual design
+
+---
+
+## 👩‍💻 Author
+
+**Naisha Nitin Uchil**
+
+Computer Science Student
+
+Interested in:
+
+- Data Analytics
+- Python
+- Machine Learning
+- Artificial Intelligence
+- Business Intelligence
