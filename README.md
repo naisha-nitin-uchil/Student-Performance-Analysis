@@ -360,8 +360,9 @@ An end-to-end student performance analysis project using Python, Pandas, Scikit-
 
 📊 Dashboard Preview
 
-
 The interactive Power BI dashboard summarizes student performance using key KPIs and comparisons across demographic, academic, and learning-related factors.
+
+![Student Performance Dashboard](Power%20Bi/dashboard.png)
 
 🎯 Project Objectives
 Analyze the factors associated with student exam performance.
